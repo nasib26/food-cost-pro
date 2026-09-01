@@ -1,0 +1,10 @@
+{
+  "name":"Food Cost Pro",
+  "short_name":"Food Cost",
+  "start_url":"./index.html",
+  "display":"standalone",
+  "background_color":"#f4f6f8",
+  "theme_color":"#17202a",
+  "description":"Monthly F&B Food Cost Calculator and records",
+  "icons":[]
+}
